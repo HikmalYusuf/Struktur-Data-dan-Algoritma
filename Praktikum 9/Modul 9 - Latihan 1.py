@@ -2,9 +2,9 @@
 """
 @Materi: AVL Tree
 @Judul: Praktikum 9 Latihan 1
-@Hari/Tanggal: Senin, 20210920
-@NIM: 065001900001
-@author: Azhar Rizky Zulma
+@Hari/Tanggal: Sabtu, 10022023
+@NIM: 2211102441158
+@author: Moh. Hikmal Yusuf
 """
 
 class TreeNode(object):
